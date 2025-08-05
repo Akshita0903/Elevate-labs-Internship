@@ -44,7 +44,7 @@ class Task2{
            // s1.nextLine();
             switch (ch) {
                 case 1:
-                System.out.println("-----------entering details");
+                System.out.println("-----------entering details------------");
                     System.out.print("Enter Student Id: ");
                     int s_id=sc.nextInt();
                     //sc.nextLine();
@@ -142,3 +142,4 @@ class Task2{
         }
     }
 }
+
